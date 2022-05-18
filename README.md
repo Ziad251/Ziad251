@@ -1,6 +1,7 @@
 ### Hi there 😊 
 
 ### Check out my profiles on: <br>
+Sololearn: <a href="https://www.sololearn.com/profile/14263494">Ziad251</a><br>
 Codewars: <a href="https://www.codewars.com/users/Ziad251">Ziad251</a><br>
 Hackerrank: <a href="https://www.hackerrank.com/ziad251?hr_r=1">Ziad251 </a><br>
 Codepen: <a href="https://codepen.io/ziad251"> Ziad251 </a> <br>
