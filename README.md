@@ -7,5 +7,6 @@ Hackerrank: <a href="https://www.hackerrank.com/ziad251?hr_r=1">Ziad251 </a><br>
 Codepen: <a href="https://codepen.io/ziad251"> Ziad251 </a> <br>
 HTB: <a href="https://hackthebox.com/ziad251"> Ziad251 </a> <br>
 
-### Websites: <br>
-CVMaker: https://ziad251.github.io/cvmaker/
+### Demos: <br>
+CVMaker: <a href="https://ziad251.github.io/cvmaker/"> Link </a> <br>
+Transcription: <a href="https://transcription.azurewebsites.net/"> Link </a>
