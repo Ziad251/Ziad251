@@ -10,5 +10,5 @@ HTB: <a href="https://hackthebox.com/ziad251"> Ziad251 </a> <br>
 
 ### Demos: <br>
 CVMaker: <a href="https://ziad251.github.io/cvmaker/"> Link </a> <br>
-Transcription: <a href="https://transcription.azurewebsites.net/"> Link </a>
-MemoryGame: <a href="https://memorygame.ziadmoh.repl.co/"> Link </a>
+Transcription: <a href="https://transcription.azurewebsites.net/"> Link </a> <br>
+MemoryGame: <a href="https://memorygame.ziadmoh.repl.co/"> Link </a> <br>
