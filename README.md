@@ -16,7 +16,7 @@ HTB: <a href="https://hackthebox.com/ziad251"> Ziad251 </a> <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziad251&layout=compact&theme=radical"></img>
   <br>
-  <b>My most using technologies</b>
+  <b>My most used technologies</b>
   <br>
   <img alt="C#"
     src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
