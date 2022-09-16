@@ -1,7 +1,6 @@
 ### Hi there 😊 <br>
-<a href="https://www.buymeacoffee.com/zedisbroke"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a> <br>
 
-### profiles on other platforms: <br>
+### find me on: <br>
 <a href="https://www.sololearn.com/profile/14263494"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"></img></a>
 <a href="https://www.codewars.com/users/Ziad251"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 <a href="https://www.hackerrank.com/ziad251?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> </img></a>
